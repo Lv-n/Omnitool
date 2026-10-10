@@ -20,7 +20,7 @@ import time
 import base64
 import hashlib
 
-version = "[UNRELEASE]-1.0"
+version = "1.0"
 
 # --- Initialize Pygame Sound ---
 pygame.mixer.init()
